@@ -3,6 +3,8 @@
 }
 .footer{
     height: 50px;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
 }
 .header{
     height: 100px;
